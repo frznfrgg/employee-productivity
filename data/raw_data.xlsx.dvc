@@ -1,0 +1,5 @@
+outs:
+- md5: dde19b00478899b64878e14c0f6ec363
+  size: 3135986
+  hash: md5
+  path: raw_data.xlsx
